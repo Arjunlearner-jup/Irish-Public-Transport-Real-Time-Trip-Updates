@@ -139,3 +139,11 @@ This is an example layout, not a requirement. The actual paths must agree with t
 ## GTFS_Static data is saved as pre-release
 
 The memory size of GTFS Static data was more than 25 mb hence had to save it as a release. Downloading the static data is very important for the project. Save it in the folder GTFS_Static in the project folder.
+
+## Organisation interest
+
+Exploring this project for your organisation?
+
+[View my LinkedIn](https://linkedin.com/in/arjun-mohan-b57305341)
+
+It will enable me to follow up. Thank you.
